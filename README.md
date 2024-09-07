@@ -1,2 +1,2 @@
 # Fundamentals-of-ML
-A repo for ML functions defined from scratch
+A repo for exploring ML algos defined through basic principles
