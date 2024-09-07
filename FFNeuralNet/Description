@@ -1,0 +1,3 @@
+A single hidden layer feed foward neural network programmed from scratch
+Empirically shows the spirit of the universal approximator theorem
+Pred.pdf plots the prediction of a cubic polynomial
