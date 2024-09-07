@@ -1,0 +1,5 @@
+Implements Fourier Regression on Electricity usage Data
+
+SSE.pdf shows how using a larger fourier basis doesn't always yield lower SSE
+
+Preds.pdf shows predictions using a basis of size 9
