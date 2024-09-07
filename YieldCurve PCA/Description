@@ -1,1 +1,4 @@
-Demonstrating how all possible yield curves can generated through an LC of 5 principal components.
+Demonstrating how all possible yield curves can be estimated through an LC of 5 principal components.
+loadvecs.pdf plot 3 principal components
+3-PCs.pdf and 5-PC.pdf show how 3 or 5 principal components estimate the yield Curves
+ExpVar.pdf shows the increase in expalined variance as a function of PCs
