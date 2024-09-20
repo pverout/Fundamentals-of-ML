@@ -1,4 +1,5 @@
 Local Linear Regression Using a Gaussian Kernel and KNN on Implied Volatility
+Attempt performing the prediction of the implied volatility for options that were not traded previously by using the informationprovided by previous trades.
 Both pdfs show predicted implied volatility as function of Time to maturity and strike price
 LLPreds.pdf uses Local Linear Regression for different Covariance Matrices
 KNNPreds.pdf uses KNN for different values of K
